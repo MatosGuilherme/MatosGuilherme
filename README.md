@@ -1,7 +1,7 @@
 <!-- README estilo Matrix -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+visitor%7C+VISITOR...;Follow+the+white+rabbit.;Hello+World!+%F0%9F%91%8B;Welcome+to+my+Codes" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+up,%7C+VISITOR...;Follow+the+white+rabbit.;Hello+World!+%F0%9F%91%8B;Welcome+to+my+Codes" />
 </p>
 
 <h1 align="center"><code style="color: #00FF00;">Seja bem-vindo 👋</code></h1>
