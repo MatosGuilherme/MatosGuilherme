@@ -1,7 +1,5 @@
-<!-- README estilo Matrix -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+up%2C+Neo...;Follow+the+white+rabbit.;Hello+World!+%F0%9F%91%8B;Welcome+to+my+Matrix+README" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+up%2C+GG...;Follow+the+white+rabbit.;Hello+World!+%F0%9F%91%8B;Welcome+to+my+Codes+README" />
 </p>
 
 <h1 align="center"><code style="color: #00FF00;">Olá, visitante 👋</code></h1>
@@ -33,8 +31,8 @@
 ```
 system.boot()
 > Iniciando aprendizado...
-> Processando disciplina: Lógica de Programação
-> Módulo atual: Fundamentos da Computação
+> Processando curso: Análise e Desenvolvimento de Sistemas
+> Módulo atual: 1º Período
 > Status: ONLINE ✅
 ```
 
@@ -45,5 +43,5 @@ system.boot()
 </p>
 
 <p align="center">
-  <i>"A Matrix está em todo lugar. Está à nossa volta. Mesmo agora, nesta sala."</i>
+  <i>"A programação está em todo lugar. Está à nossa volta. Mesmo agora, nesta sala."</i>
 </p>
