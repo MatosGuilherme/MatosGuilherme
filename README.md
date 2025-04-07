@@ -1,9 +1,10 @@
 <!-- README estilo Matrix -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+up%2C+visitor...;Follow+the+white+rabbit.;Make yourself at home!+%F0%9F%91%8B;Welcome+to+my+Codes" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+up%2C+GG...;Follow+the+white+rabbit.;Hello+World!+%F0%9F%91%8B;Welcome+to+my+Codes+README" />
 </p>
 
+<h1 align="center"><code style="color: #00FF00;">Olá, visitante 👋</code></h1>
 
 ```
 01001100 01101001 01101110 01101011 01101001 01101110 01100111 00100000 01101100 01101111 01100001 01100100 01101001 01101110 01100111...
